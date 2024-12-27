@@ -6,5 +6,6 @@ void main()
 	while(1)
 	{
 		LED_Blink();
+		hello
 	}
 }
