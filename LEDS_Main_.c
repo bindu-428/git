@@ -7,5 +7,6 @@ void main()
 	{
 		LED_Blink();
 		hello
+		hi
 	}
 }
